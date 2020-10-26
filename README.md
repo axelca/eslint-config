@@ -2,6 +2,14 @@
 
 Just a eslint config I usually go with for cra. 
 
+## Installation
+
+``` git clone https://github.com/axelca/eslint-config ./ ```
+
+``` mv ./eslint-config/.eslintrc ./ && mv ./eslint-config/.prettierrc ./ && rm -rf ./eslint-config ```
+
+Run these two commands in your current project
+
 ## Dependencies
 
 ```npm i typescript```
