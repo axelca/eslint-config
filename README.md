@@ -13,9 +13,12 @@ For some reason typescript needs to be installed, gotta look into this
 
 ### package.json
 
-```"scripts": { 
+```
+"scripts": { 
   "lint": "eslint ." 
-} ```
+} 
+
+```
 
 Create a script for eslint, if you're not planning on using the eslint extensions for VS Code.
 
