@@ -10,8 +10,6 @@ Just a eslint config I usually go with for cra.
 
 Run these two commands in your current project
 
-## Dependencies
-
 ```npm i typescript```
 
 For some reason typescript needs to be installed, gotta look into this
