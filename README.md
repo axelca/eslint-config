@@ -4,18 +4,17 @@ Just a eslint config I usually go with for cra.
 
 ## Installation
 
-``` git clone https://github.com/axelca/eslint-config ./ ```
+``` git clone https://github.com/axelca/eslint-config ```
+
+Run this command in the root of your project
 
 ``` mv ./eslint-config/.eslintrc ./ && rm -rf ./eslint-config ```
 
-Run these two commands in your current project
+This command copies files to the root of your project
 
-```npm i typescript```
+```npm i eslint eslint-config-prettier eslint-plugin-import eslint-plugin-prettier prettier -D ```
 
-For some reason typescript needs to be installed, gotta look into this
-
-```npm i  eslint eslint-config-prettier eslint-plugin-import eslint-plugin-prettier prettier -D ```
-
+This command installs dependencies
 
 ### package.json
 
