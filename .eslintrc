@@ -6,6 +6,11 @@
   ],
   "plugins": ["prettier"],
   "rules": {
-    "prettier/prettier": ["error", {}, { "usePrettierrc": true }]
+    "prettier/prettier": ["error", {
+        "semi": true,
+        "singleQuote": true,
+        "trailingComma": "es5"
+      }
+    ]
   }
 }
